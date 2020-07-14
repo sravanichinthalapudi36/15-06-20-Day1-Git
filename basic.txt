@@ -1,0 +1,7 @@
+THIS file is about the knowing the git commands easilyy
+basic commands
+create 
+update
+deete
+merge and etc...
+show status and alll..
