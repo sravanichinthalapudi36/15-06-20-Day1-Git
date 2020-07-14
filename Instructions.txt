@@ -1,0 +1,4 @@
+## this file about the instruction file
+
+
+use the commands to open the text file
